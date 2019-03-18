@@ -79,7 +79,7 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BEng in Applied Mathematics
+    - degree: BEng in Agricultural Civil Engineering
       university: Seoul National University
       time: 2001 - 2005
       details: |
@@ -93,9 +93,9 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Postdoctoral Associate 
+      time: 2014 - Present
+      company: Institute on the Environment, University of Minnesota
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -110,9 +110,9 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Senior Researcher
+      time: 2014
+      company: Institute of Green Bio Science and Technology, Seoul National University
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -123,9 +123,22 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Research Associate
+      time: 2007 - 2014
+      company: Seoul National University, Seoul
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+    - role: Research Assistant
+      time: 2002 - 2014
+      company: Seoul National University, Seoul
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
