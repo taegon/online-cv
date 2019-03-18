@@ -9,11 +9,11 @@ sidebar:
     # Profile information
     name: Taegon Kim
     tagline: Research Software Engineer
-    avatar: https://avatars2.githubusercontent.com/u/1658927?s=460&v=4  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile_TK.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: taegon.k@gmail.com
-    phone: 012 345 6789
+    phone: 425 219 8377
     website: code.taegon.kr #do not add http://
     linkedin: taegon
     github: taegon
