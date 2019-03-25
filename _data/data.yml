@@ -19,7 +19,7 @@ sidebar:
     github: taegon
     gitlab:
     bitbucket:
-    twitter: '@'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,17 +32,17 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Reading
+      - item: d3.js
         link:
 
-      - item:
+      - item: python
         link:
 
-      - item:
+      - item: simulation
         link:
 
 career-profile:
-    title: Career Profile
+    title: Postdoctoral Associate
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -137,7 +137,7 @@ experiences:
           - Bullet point
 
     - role: Research Assistant
-      time: 2002 - 2014
+      time: 2002 - 2007
       company: Seoul National University, Seoul
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -185,39 +185,40 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Subnational mobility and consumption-based environmental accounting of US corn in animal protein and ethanol supply chains
+        authors: Timothy M. Smith, Andrew L. Goodkind, Taegon Kim, Rylie E. O. Pelton, Kyo Suh, and Jennifer Schmitt
+        conference: Proceedings of the National Academy of Sciences of the United States of America (PNAS), 2017
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Numerical Solution of Second Order Linear Partial Differential Equations using Agricultural Systems Application Platform
+        authors: SungYong Lee, Taegon Kim, Kyo Suh, Yicheol Han, Jemyung Lee, Hojae Yi, and JeongJae Lee
+        conference: Journal of The Korean Society of Agricultural Engineers, 2016
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Development of RESTful Web Service for Loading Data focusing on Daily Meteorological Data
+        authors: Taegon Kim, JeongJae Lee, Won-Ho Nam, and Kyo Suh
+        conference: Journal of The Korean Society of Agricultural Engineers, 2014
+
+      - title: Environmental and Economic Implications of Bioethanol Blending for the Renewable Fuel Standard in South Korea
+        authors: Taegon Kim, Jimin Lee, SungYong Lee, and Kyo Suh
+        conference: Transactions of the ASABE, 2014
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Java
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Front-end with D3.js
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Back-end (PHP/Django/MySQL)
+        level: 80%
+
+      - name: Working with legacy code (c, fortran, VB)
+        level: 95%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
