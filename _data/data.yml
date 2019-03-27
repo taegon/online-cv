@@ -180,9 +180,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Dr. Kim has considerable experience working on multi-disciplinary research teams with modeling and simulation studies such as food supply chain in US, numerical structure analysis, indicating agricultural drought, estimating water footprints, detecting community structures, and calculating circuity factors in Korea. He has published [63 peer-reviewed articles](https://project.taegon.kr/papers/) based on these studies. 
 
     papers:
       - title: Subnational mobility and consumption-based environmental accounting of US corn in animal protein and ethanol supply chains
@@ -217,7 +215,7 @@ skills:
       - name: Back-end (PHP/Django/MySQL)
         level: 80%
 
-      - name: Working with legacy code (c, fortran, VB)
+      - name: Working with legacy code (c, fortran, VB, exe)
         level: 95%
 
 footer: >
