@@ -153,25 +153,21 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: FoodS<sup>3</sup>
+        link: "http://foodscube.umn.edu"
+        tagline: "Food Systems Supply-chain Sustainability tool (FoodS3) for researcher"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: FoodS3.org
+        link: "http://foods3.org"
+        tagline: "Landing page as single-page application for FoodS3 project"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Korean Daily Weather API
+        link: "https://project.taegon.kr/ksae"
+        tagline: "This page is demo page for Korean Daily Weather RESTful API. Taegon Kim et al. (2014), Development of RESTful Web Service for Loading Data focusing on Daily Meteorological Data, Journal of the Korean Society of Agricultural Engineers 56(6): 93-102. (in Korean)"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: GHG reports for cities
+        link: "https://ghgfootprint.com/denver/"
+        tagline: "Community-wide GHG emission inventory site using Django and d3.js"
 
 publications:
     title: Publications
